@@ -1,4 +1,4 @@
-their are two folder client and server
+
 
 
 >  that is first task which is server side node js api with mongodb atlas.
@@ -10,11 +10,11 @@ install node
 install npm 
 
 
-make server folder 
+make server folder in your system 
 
 fire commond npm init --yes on it 
 
-replce and add my files in that file 
+replce and add my above files in that file 
 
 
 npm install express
